@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FitHub (FLutter application)**
+- 🔭 I’m currently working on **VNF and 5G networks**
 
-- 🌱 I’m currently learning **Python, React JS and Javascript**
+- 🌱 I’m currently learning **anything that excites me about tech but mostly DSA for Placement XD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushved78](https://github.com/ayushved78)
 
-- 💬 Ask me about **Flutter and Dart**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **ayush.ved78@gmail.com**
 
