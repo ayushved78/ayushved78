@@ -13,13 +13,12 @@
 
 - 📫 How to reach me **ayush.ved78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XUqPlljUckWc_onEy4e6CZQF6Y4rt1J6/view?usp=sharing](https://drive.google.com/file/d/1XUqPlljUckWc_onEy4e6CZQF6Y4rt1J6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XUqPlljUckWc_onEy4e6CZQF6Y4rt1J6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ayush.singh78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush.singh78" height="30" width="40" /></a>
 <a href="https://medium.com/@ayush-ved78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayush-ved78" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayushved78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushved78" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
