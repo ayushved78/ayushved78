@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushved78&show_icons=true&locale=en&layout=compact" alt="ayushved78" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushved78&show_icons=true&locale=en" alt="ayushved78" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushved78&show_icons=true&locale=en" alt="ayushved78" /></p> -->
