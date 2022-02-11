@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/ayush.singh78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush.singh78" height="30" width="40" /></a>
 <a href="https://medium.com/@ayush-ved78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayush-ved78" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushsingh78/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"  alt="ayush.singh78" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
