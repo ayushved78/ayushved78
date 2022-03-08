@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ayush.ved78@gmail.com**
+- 📫 How to reach me **sayush7@yahoo.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XUqPlljUckWc_onEy4e6CZQF6Y4rt1J6/view?usp=sharing)
 
