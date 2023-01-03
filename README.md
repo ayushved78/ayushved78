@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushved78&label=Profile%20views&color=0e75b6&style=flat" alt="ayushved78" /> </p>
 
-- 🔭 I’m currently working on **VNF and 5G networks**
+- 🔭 I’m currently working on **Data Engineering and Django**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms in JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushved78](https://github.com/ayushved78)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Flutter | Python | Android | Data Engineering**
 
-- 📫 How to reach me **sayush7@yahoo.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XUqPlljUckWc_onEy4e6CZQF6Y4rt1J6/view?usp=sharing)
+- 📫 Reach me out @ **sayush7@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
