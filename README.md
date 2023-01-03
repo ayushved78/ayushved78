@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter | Python | Android | Data Engineering**
 
-- 📫 Reach me out @ **sayush7@yahoo.com**
+- 📫 Reach me out at **sayush7@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
