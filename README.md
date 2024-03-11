@@ -46,9 +46,6 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/ayushved78/ayushved78/blob/output/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/ayushved78/ayushved78/output/snake.svg" alt="Snake animation" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushved78&label=Profile%20views&color=0e75b6&style=flat" alt="ayushved78" /> </p>
 
 ### ✍️ Random Dev Quote
